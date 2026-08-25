@@ -16,12 +16,14 @@
 - 🛍️ **Catálogo de Productos** - Visualización intuitiva de calzado y accesorios
 - 🔍 **Búsqueda y Filtros Avanzados** - Filtrar por género, precio, color y tamaño
 - 📱 **Diseño Responsive** - Experiencia optimizada en móvil, tablet y desktop
-- 👤 **Autenticación Segura** - Sistema de login y registro con JWT
-- 🔐 **Recuperación de Contraseña** - Sistema seguro con email verification
 - 📦 **Historial de Pedidos** - Seguimiento de compras realizadas
 - 🛒 **Carrito Persistente** - Datos almacenados en LocalStorage
+- 🛒 **Carrito ** - conecta al whatsApp empresa
 
 ### Para Administradores
+##este modulo se encuentra en desarrollo.
+- 👤 **Autenticación Segura** - Sistema de login y registro con JWT
+- - 🔐 **Recuperación de Contraseña** - Sistema seguro con email verification
 - 📊 **Panel de Control** - Dashboard con estadísticas clave
 - ➕ **Gestión de Productos** - CRUD completo (crear, leer, actualizar, eliminar)
 - 👥 **Gestión de Usuarios** - Control de acceso y permisos
