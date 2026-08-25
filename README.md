@@ -21,7 +21,7 @@
 - 🛒 **Carrito** - conecta al whatsApp empresa
 
 ### Para Administradores
- este modulo se encuentra en desarrollo.
+este modulo se encuentra en desarrollo.
 - 👤 **Autenticación Segura** - Sistema de login y registro con JWT
 - - 🔐 **Recuperación de Contraseña** - Sistema seguro con email verification
 - 📊 **Panel de Control** - Dashboard con estadísticas clave
