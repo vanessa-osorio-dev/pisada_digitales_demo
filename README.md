@@ -2,10 +2,6 @@
 
 > Plataforma de comercio electrónico especializada en calzado y accesorios de moda, con panel administrativo en desarrollo para gestión de inventario. Proyecto académico convertido en un caso de estudio completo del ciclo de vida del desarrollo de software.
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://pisadas-digitales-vanessa-osorio.netlify.app/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-En%20Construcción-yellow?style=flat-square)]()
-
 ---
 
 
