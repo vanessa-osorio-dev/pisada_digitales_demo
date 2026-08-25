@@ -18,7 +18,7 @@
 - 📱 **Diseño Responsive** - Experiencia optimizada en móvil, tablet y desktop
 - 📦 **Historial de Pedidos** - Seguimiento de compras realizadas
 - 🛒 **Carrito Persistente** - Datos almacenados en LocalStorage
-- 🛒 **Carrito ** - conecta al whatsApp empresa
+- 🛒 **Carrito** - conecta al whatsApp empresa
 
 ### Para Administradores
 ## este modulo se encuentra en desarrollo.
