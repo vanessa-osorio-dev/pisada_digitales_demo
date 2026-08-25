@@ -291,7 +291,7 @@ Este proyecto demuestra experiencia en todo el ciclo de vida del desarrollo de s
 **Vanessa Osorio Ortiz**
 
 - 📧 Email: vanessaosorio.dev@gmail.com
-- 🔗 GitHub: [Tu GitHub](https://github.com/tu-usuario)
+- 🔗 GitHub: [Tu GitHub](https://github.com/vanessa-osorio-dev/)
 
 **Sobre mí:** Desarrolladora Full Stack apasionada por crear soluciones digitales innovadoras. Este proyecto representa mi compromiso con la excelencia en desarrollo y mi capacidad para conceptualizar, diseñar e implementar aplicaciones web complejas desde cero.
 
